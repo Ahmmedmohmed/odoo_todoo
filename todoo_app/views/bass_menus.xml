@@ -1,0 +1,14 @@
+<odoo>
+
+    <menuitem id="menu_todo"
+
+              name="TO DO APP"
+    />
+
+  <menuitem id="menu_root_ticet"
+
+              name="TicKets"
+              parent="menu_todo"
+     />
+
+</odoo>
